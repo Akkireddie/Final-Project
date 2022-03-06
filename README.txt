@@ -1,0 +1,2 @@
+I have implemented all the unctionalities of my application. For phase two i will be integrating thema and make an sdk for the final version. 
+Make a new project in android studio and just copy paste these files, as whole project was not be uploaded bue to some files in android studio project. 
